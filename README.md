@@ -48,7 +48,7 @@ Throughout the year, the data shows a gradual increase in the number of reported
 
 The plot shown in figure 5 shows the total number of victims of crime for each year from 2016 to 2021. It also shows a pattern similar to that of the total number of crime reported each year, a gradual decrease till 2019 and then a sudden downfall from 2020 till 2021.
 
-<p style="text-align:centre">
+<p style="text-align:center">
     <img 
         width="700"
         height="400"
@@ -71,6 +71,7 @@ The plot shown in figure 5 shows the total number of victims of crime for each y
     height="400"
     src="https://github.com/mayur-said/Analysis-of-Crime-in-USA/blob/main/plots/assualt.png"
   >
+  Figure 2
 </p>
 
 <p align="center">
