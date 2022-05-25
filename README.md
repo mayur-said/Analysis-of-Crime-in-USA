@@ -18,7 +18,7 @@ As per the data provided by Montgomery County, the county has seen all kinds of 
 top10cities
 <p align="center">
   <img 
-    width="500"
+    width="700"
     height="500"
     src="https://github.com/mayur-said/Analysis-of-Crime-in-USA/blob/main/plots/top10cities.png"
   >
