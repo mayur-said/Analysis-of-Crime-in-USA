@@ -23,6 +23,22 @@ top10cities
     src="https://github.com/mayur-said/Analysis-of-Crime-in-USA/blob/main/plots/top10cities.png"
   >
 </p>
+
+<p align="center">
+  <img 
+    width="700"
+    height="400"
+    src="https://github.com/mayur-said/Analysis-of-Crime-in-USA/blob/main/plots/week.png"
+  >
+</p>
+
+<p align="center">
+  <img 
+    width="700"
+    height="400"
+    src="https://github.com/mayur-said/Analysis-of-Crime-in-USA/blob/main/plots/year.png"
+  >
+</p>
 <!-- ![top10cities](./plots/top10cities.png)
 ![week](./plots/week.png)
 ![Image](./plots/year.png) -->
@@ -32,9 +48,34 @@ Throughout the year, the data shows a gradual increase in the number of reported
 
 The plot shown in figure 5 shows the total number of victims of crime for each year from 2016 to 2021. It also shows a pattern similar to that of the total number of crime reported each year, a gradual decrease till 2019 and then a sudden downfall from 2020 till 2021.
 
-![victims_year](./plots/victims_year.png)
+<p align="center">
+  <img 
+    width="700"
+    height="400"
+    src="https://github.com/mayur-said/Analysis-of-Crime-in-USA/blob/main/plots/victims_year.png"
+  >
+</p>
+
+<p align="center">
+  <img 
+    width="700"
+    height="400"
+    src="https://github.com/mayur-said/Analysis-of-Crime-in-USA/blob/main/plots/assualt.png"
+  >
+</p>
+
+<p align="center">
+  <img 
+    width="700"
+    height="400"
+    src="https://github.com/mayur-said/Analysis-of-Crime-in-USA/blob/main/plots/assault_top_10_cities.png"
+  >
+</p>
+
+
+<!-- ![victims_year](./plots/victims_year.png)
 ![ASSAULT](./plots/assualt.png)
-![ASSAULTplace](./plots/assault_top_10_cities.png)
+![ASSAULTplace](./plots/assault_top_10_cities.png) -->
 
 Even though the total number of reported crimes has seen a downfall in the county because of the pandemic, one crime ASSAULT - AGGRAVATED, in particular, has increased in the past couple of years. Especially during the pandemic, reported crimes classified as aggravated assault has increased drastically from 2020 to 2021. After digging a little deeper into the dataset, most of these crimes have taken place at a residential place as shown in figure 7. One of the reasons for this could be the lockdown in the country during a pandemic. Most of the people were at home during the pandemic. Therefore, it might have increased aggravated assaults at a residential place.
 
