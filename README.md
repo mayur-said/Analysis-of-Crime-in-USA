@@ -65,7 +65,7 @@ The plot shown in figure 5 shows the total number of victims of crime for each y
 </figure>
 </p>
 
-<p align="center">
+<p align="left">
   <img 
     width="700"
     height="400"
