@@ -15,7 +15,8 @@ config.py file. For this project, Database is 'postgres', Username is 'postgres'
 
 ## Results
 As per the data provided by Montgomery County, the county has seen all kinds of crimes, from shoplifting, and theft to rape, murder, and human trafficking. Figure 2 shows the top ten cities with the highest number of reported crimes with Silver Spring at the top.
-
+top10cities
+![top10cities](./plots/top10cities.png)
 ![week](./plots/week.png)
 ![Image](./plots/year.png)
 
