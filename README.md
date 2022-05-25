@@ -83,7 +83,9 @@ The plot shown in figure 5 shows the total number of victims of crime for each y
 </p>
 
 
-![victims_year](./plots/victims_year.png)<b>Image Credits - Fig.2</b>
+![victims_year](./plots/victims_year.png)
+|:--:|
+|<b>Image Credits - Fig.2</b>|
 <!-- ![ASSAULT](./plots/assualt.png)
 ![ASSAULTplace](./plots/assault_top_10_cities.png) -->
 
