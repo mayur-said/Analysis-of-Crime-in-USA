@@ -54,6 +54,7 @@ The plot shown in figure 5 shows the total number of victims of crime for each y
     height="400"
     src="https://github.com/mayur-said/Analysis-of-Crime-in-USA/blob/main/plots/victims_year.png"
   >
+  <em>Figure 1</em>
 </p>
 
 <p align="center">
