@@ -1,0 +1,9 @@
+pymongo[srv]
+sodapy
+psycopg2
+pandas
+matplotlib
+seaborn
+plotly
+cufflinks
+chart_studio
