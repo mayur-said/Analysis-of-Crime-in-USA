@@ -1,7 +1,11 @@
 # DAP Project
 
 ## Abstract
-As stated by Arthur Conan Doyle "To revenge crime is important, but to prevent it is more so". The main objective of this study is to analyse crime and gain valuable insights from the same to curb them from taking place. To achieve the objectives, reported crime from three different regions were used to perform analysis. We used ETL methodology to prepare the datasets for analysis. The analysis of these datasets showed that even though crime rates were fluctuating in different regions, crimes classified as assault are on a rise. This ever-increasing rise of such crime can be potentially dangerous for the future and thus further research needs to be done on understanding the main reason of such assault.
+As stated by Arthur Conan Doyle "To revenge crime is important, but to prevent it is more so". The main objective of this study is to analyse crime and gain valuable insights from the same to curb them from taking place. To achieve the objectives, reported crime from Montgomery County is used to perform analysis. Montgomery is Maryland's most populated county and one of the wealthiest in the country. ETL methodology is used to prepare the dataset for analysis. 
+
+The analysis of this datasets showed that even though crime rates were fluctuating in different regions, crimes classified as assault are on a rise. This ever-increasing rise of such crime can be potentially dangerous for the future and thus further research needs to be done on understanding the main reason of such assault.
+
+![Image](./plots/ASSAULT%20-%20AGGRAVATED%20top%2010%20cities.png)
 
 ## Steps to run the project
 
