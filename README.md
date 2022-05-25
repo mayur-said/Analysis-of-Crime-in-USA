@@ -57,6 +57,16 @@ The plot shown in figure 5 shows the total number of victims of crime for each y
     >
     <figcaption>MDN Logo</figcaption>
 </figure>
+<figure>
+    <img 
+        width="700"
+        height="400"
+        src="https://github.com/mayur-said/Analysis-of-Crime-in-USA/blob/main/plots/assualt.png"
+    >
+    <figcaption>MDN Logo1</figcaption>
+
+
+</figure>
 Figure 1
 </p>
 
