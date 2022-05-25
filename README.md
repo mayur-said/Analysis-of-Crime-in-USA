@@ -20,7 +20,7 @@ top10cities
   <img 
     width="300"
     height="300"
-    src="./plots/top10cities.pn"
+    src="https://github.com/mayur-said/Analysis-of-Crime-in-USA/blob/main/plots/top10cities.png"
   >
 </p>
 <!-- ![top10cities](./plots/top10cities.png)
