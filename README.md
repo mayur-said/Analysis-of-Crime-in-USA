@@ -1,11 +1,11 @@
 
 
 ## Introduction
-As stated by Arthur Conan Doyle "To revenge crime is important, but to prevent it is more so". The main objective of this study is to analyse crime and gain valuable insights from the same to curb them from taking place. To achieve the objectives, reported crime from Montgomery County is used to perform analysis. Montgomery is Maryland's most populated county and one of the wealthiest in the country. ETL methodology is used to prepare the dataset for analysis. 
+As stated by Arthur Conan Doyle "To revenge crime is important, but to prevent it is more so". The main objective of this study is to analyse crime and gain valuable insights from the same to curb them from taking place. To achieve the objectives, reported crime from Montgomery County is used to perform analysis. Montgomery is Maryland's most populated county and one of the wealthiest in the country. In this project, I have built an ETL pipeline to programitically consume and wrangle unstructured data from the Montgomery data portal. At the end, the data is analysed to understand the nature and trend of the crime in Montgomery county. Python libraries such as Matplotlib and Seaborn are used to present the insights. 
 
 ## Steps to run the project
 
-1. Setup the MongoDB on the local system by running the command: docker-compose up --build -d mongodb 
+1. Setup the MongoDB using the docker by running the command: docker-compose up --build -d mongodb 
 2. For this project, the postgres was installed on the local system. Database, Username and Password can be changed from 
 config.py file. For this project, Database is 'postgres', Username is 'postgres' and Password is '1234'
 3. Activate the virtual environment by using the command for windows: dapproject\Scripts\activate.bat and for MacOS: source dapproject/bin/activate
